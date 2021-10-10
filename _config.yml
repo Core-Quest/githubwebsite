@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -44,7 +44,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-   youtube: https://www.youtube.com/channel/UC0H0WUk0oIFOiwhBevsTmlw
+   youtube: Core_GamingYT
    discord: Core#9790
 
 topics:
@@ -74,5 +74,4 @@ topics:
 
   - name: css
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
-
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png        
